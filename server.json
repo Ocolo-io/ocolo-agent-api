@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.ocolo.www/project-requests",
+  "title": "OCOLO Project Requests",
+  "description": "Submit a data center colocation requirement to OCOLO on a user's behalf; OCOLO takes it to 270+ providers and returns the best options. Email-verified, no auth.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.ocolo.io/for-agents/",
+  "repository": {"url": "https://github.com/Ocolo-io/ocolo-agent-api", "source": "github"},
+  "remotes": [
+    {"type": "streamable-http", "url": "https://www.ocolo.io/api/v1/mcp/"}
+  ]
+}

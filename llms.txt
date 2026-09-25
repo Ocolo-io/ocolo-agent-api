@@ -1,0 +1,8 @@
+# OCOLO Project Request API
+
+> Lets an AI agent submit a data center colocation requirement to OCOLO on behalf of a human. No API key; the contact confirms by email. OCOLO takes the project to 270+ colocation providers and returns the best options within 2-3 business days.
+
+- [Guide](https://www.ocolo.io/for-agents/)
+- [OpenAPI](https://www.ocolo.io/api/v1/openapi.json)
+- [MCP server](https://www.ocolo.io/api/v1/mcp/)
+- [Guidance endpoint](https://www.ocolo.io/api/v1/guidance/)
