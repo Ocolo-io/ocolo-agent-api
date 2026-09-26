@@ -40,7 +40,7 @@
       "Poll status_url to track progress. Do not resubmit."
     ],
     "reply_sla": "2-3 business days",
-    "docs_url": "http://127.0.0.1:8000/for-agents/"
+    "docs_url": "https://www.ocolo.io/for-agents/"
   },
   "x-ocolo-discovery": {
     "llms_txt": "https://www.ocolo.io/llms.txt",
