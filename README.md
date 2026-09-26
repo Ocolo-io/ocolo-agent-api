@@ -7,7 +7,7 @@ best options to the contact within 2-3 business days. No API key, no account: th
 confirms by email.
 
 - Human guide: https://www.ocolo.io/for-agents/
-- OpenAPI 3.1: https://www.ocolo.io/api/v1/openapi.json (copy in this repo: [`openapi.json`](openapi.json))
+- OpenAPI 3.1: https://www.ocolo.io/api/v1/openapi.json (copy in this repo: [`openapi.json`](openapi.json), refreshed with `./sync-spec.sh`; the live document is canonical)
 - MCP server (Streamable HTTP): `https://www.ocolo.io/api/v1/mcp/`
 - Discovery: https://www.ocolo.io/.well-known/ocolo-agent.json, https://www.ocolo.io/llms.txt
 
